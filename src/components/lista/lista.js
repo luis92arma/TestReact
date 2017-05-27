@@ -8,7 +8,8 @@ class Lista extends Component {
   constructor(){
     super()
     this.state = {
-      name: 'Luis'
+      name: 'Luis',
+      age : '24'
     }
   }
 
